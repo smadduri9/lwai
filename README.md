@@ -4,13 +4,13 @@ A contextual AI chat interface built for deep learning.
 
 ## Why I built this
 
-Standard AI chat interfaces are entirely linear — asking a follow-up question usually derails the entire conversation. I wanted a UI that behaves more like Google Docs comments. LWAI allows you to highlight a specific concept in an AI's response, branch off into a contextual sub-chat to dive deep, and then seamlessly return to your main thread.
+Standard AI chat interfaces are entirely linear, asking a follow-up question usually derails the entire conversation. I wanted a UI that behaves more intuitive to learning/exploring a topic. LWAI allows you to highlight a specific concept in an AI's response, branch off into a contextual sub-chat to dive deep, and then seamlessly return to your main thread.
 
 ## Core Features
 
 - **Contextual Sub-chats:** Highlight any text and click "Ask more" to spawn an isolated, context-aware thread.
 - **Notebook:** Save key insights, code snippets, or diagrams to a persistent notebook from any UI state.
-- **End-to-End Privacy:** Run open-source models locally out of the box. This architecture protects your API token limits and ensures complete privacy — no telemetry, no cloud logging, and no data sharing.
+- **End-to-End Privacy:** Run open-source models locally out of the box. This architecture protects ensures complete privacy — no telemetry, no cloud logging, and no data sharing.
 
 ## Getting Started
 
